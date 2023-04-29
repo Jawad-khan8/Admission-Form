@@ -1,0 +1,19 @@
+body{
+    background-color: #e2eefa;
+
+}
+.SectionC{
+    display: flex;
+    /* justify-content: space-between; */
+    /* border: 2px solid black ; */
+
+}
+.Sub-sectionc{
+     border: 2px solid black ;
+     margin: 2em;
+     padding: 1em;
+}
+h4{
+    color: white;
+    background-color: #6487a7;
+}
